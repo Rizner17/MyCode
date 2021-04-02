@@ -1,4 +1,5 @@
 # MyCode
+# I want to learn how to use python.
 Alta3 Python Basics Course
 # mycode (Project Title)
 
