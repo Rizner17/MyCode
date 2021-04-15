@@ -3,6 +3,7 @@ sw-1
 sw-2
 
 [arista_switches:vars]
+; variables specific to arista switches
 ansible_user=admin
 ansible_network_os=eos
-
+ansible_ssh_pass=alta3
